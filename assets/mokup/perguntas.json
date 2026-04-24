@@ -1,0 +1,27 @@
+[
+  {
+    "pergunta": "Qual é o maior país do mundo?",
+    "respostas": ["Brasil", "China", "Rússia", "Estados Unidos"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o maior rio do mundo?",
+    "respostas": ["Nilo", "Amazonas", "Yangtzé", "Mississippi"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual continente tem mais países?",
+    "respostas": ["África", "Europa", "Ásia", "América"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o deserto mais quente do mundo?",
+    "respostas": ["Saara", "Atacama", "Gobi", "Kalahari"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior oceano do planeta?",
+    "respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+    "correta": 4
+  }
+]
