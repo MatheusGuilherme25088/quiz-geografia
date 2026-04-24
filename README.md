@@ -20,24 +20,5 @@ JSON (assets locais)
 4. Execute o projeto:
 "flutter run"
 
-## Pictures
-
-![Screen](assets/imagens/paginainicial.png)
-
-Home
-
-![Screen](assets/imagens/perguntas.png)
-
-Tela de Perguntas
-
-![Screen](assets/imagens/acerto.png)
-
-Card de Acerto
-
-![Screen](assets/imagens/erro.png)
-
-Card de Erro
-
-![Screen](assets/imagens/resultado.png)
-
-Resultado Final
+Fotos
+Anexadas junto com os outros arquivos
