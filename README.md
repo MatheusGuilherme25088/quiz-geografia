@@ -1,6 +1,6 @@
 # Quiz em Flutter
 
-Aplicação desenvolvida em Flutter de um Quiz de Física apresentado ao Professor Ederson
+Aplicação desenvolvida em Flutter de um Quiz de Geografia apresentado ao Professor Leonardo
 
 ## Tecnologias
 
